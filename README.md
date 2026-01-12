@@ -26,7 +26,7 @@ Astro Cactus is a simple opinionated starter built with [Astro](https://astro.bu
 11. [Deploy](#deploy)
 12. [Acknowledgment](#acknowledgment)
 
-## Key Features
+## Key Features 功能
 
 - Astro v5 Fast 🚀 服务费
 - Tailwind v4
@@ -46,7 +46,7 @@ Astro Cactus is a simple opinionated starter built with [Astro](https://astro.bu
 - [Astro Icon](https://github.com/natemoo-re/astro-icon) svg icon component
 - [Expressive Code](https://expressive-code.com/) code blocks and syntax highlighter
 
-## Demo 💻
+## Demo 💻 案例
 
 Check out the [Demo](https://astro-cactus.chriswilliams.dev/), hosted on Netlify
 
@@ -64,13 +64,13 @@ pnpm dlx create-astro --template chrismwilliams/astro-theme-cactus
 
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chrismwilliams/astro-theme-cactus) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fchrismwilliams%2Fastro-theme-cactus&project-name=astro-theme-cactus)
 
-## Preview
+## Preview 预览
 
 ![Astro Theme Cactus in a light theme mode](https://github.com/chrismwilliams/astro-theme-cactus/assets/12715988/84c89d42-4525-4674-b10c-6d6ebdc06382)
 
 ![Astro Theme Cactus in a dark theme mode](https://github.com/chrismwilliams/astro-theme-cactus/assets/12715988/e0e575e2-445f-4c2d-a812-b5b53d2d9031)
 
-## Commands
+## Commands 命令
 
 Replace pnpm with your choice of npm / yarn
 
@@ -83,7 +83,7 @@ Replace pnpm with your choice of npm / yarn
 | `pnpm preview`   | Preview your build locally, before deploying                   |
 | `pnpm sync`      | Generate types based on your config in `src/content/config.ts` |
 
-## Configure
+## Configure 配置
 
 - Edit the template's config file `src/site.config.ts`
   - **Important**: set the url property with your own domain.
