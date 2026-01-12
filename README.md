@@ -2,7 +2,7 @@
   <img alt="Astro Cactus logo" src="https://github.com/user-attachments/assets/92dfbabf-ca65-4bf6-991d-9a71e5319880" width="70" />
 </div>
 <h1 align="center">
-  Astro Cactus
+  Astro Cactus 123456
 </h1>
 
 Astro Cactus is a simple opinionated starter built with [Astro](https://astro.build). Use it to create an easy-to-use blog or website.
@@ -28,7 +28,7 @@ Astro Cactus is a simple opinionated starter built with [Astro](https://astro.bu
 
 ## Key Features
 
-- Astro v5 Fast 🚀
+- Astro v5 Fast 🚀 服务费
 - Tailwind v4
 - Accessible, semantic HTML markup
 - Responsive & SEO-friendly
